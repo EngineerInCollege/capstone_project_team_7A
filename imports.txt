@@ -1,0 +1,13 @@
+run_pipeline.py:pathlib
+run_pipeline.py:RPi
+run_pipeline.py:subprocess
+run_pipeline.py:time
+thermal_tracking.py:adafruit_amg88xx
+thermal_tracking.py:board
+thermal_tracking.py:busio
+thermal_tracking.py:cv2
+thermal_tracking.py:numpy
+thermal_tracking.py:pygame
+thermal_tracking.py:scipy
+thermal_tracking.py:time
+thermal_tracking.py:json
